@@ -1,6 +1,5 @@
 🌌✨ FutureVerse 2070 – The World You Imagine ✨🌌
-
-FutureVerse 2070 is an interactive, futuristic web app where you can explore tomorrow, share your visions, and see what the world imagines for 2070!
+"Imagine a platform where the future is a canvas you can explore and shape. FutureVerse 2070 lets users explore predictions by decade, share their own futuristic visions, and see what the global community imagines for 2070 in real-time. With a neon cyberpunk UI and instant updates, it’s engaging, futuristic, and scalable. Whether you’re a dreamer, student, or innovator, your ideas live here. Built with React, TailwindCSS, Framer Motion, and Firebase, FutureVerse 2070 is ready to scale to thousands of users instantly."
 
 💡 “Share your vision, explore the future.”
 
